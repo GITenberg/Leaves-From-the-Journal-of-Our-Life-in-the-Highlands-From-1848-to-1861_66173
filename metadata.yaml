@@ -1,0 +1,38 @@
+_repo: Leaves-From-the-Journal-of-Our-Life-in-the-Highlands-From-1848-to-1861_66173
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Victoria, Queen of Great Britain
+    alias: Alexandrina Victoria, Queen of Great Britain
+    birthdate: 1819
+    deathdate: 1901
+    gutenberg_agent_id: '9035'
+    url: http://www.gutenberg.org/2009/agents/9035
+    wikipedia: https://en.wikipedia.org/wiki/Queen_Victoria
+  editor:
+    agent_name: Helps, Arthur, Sir
+    alias: Helps, A.
+    birthdate: 1813
+    deathdate: 1875
+    gutenberg_agent_id: '2469'
+    url: http://www.gutenberg.org/2009/agents/2469
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Helps
+description: ''
+gutenberg_issued: '2021-08-30'
+identifiers:
+  gutenberg: '66173'
+  lccn: '29025782'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Victoria, Queen of Great Britain, 1819-1901 -- Diaries'
+- !lcsh 'Queens -- Great Britain -- Diaries'
+- !lcsh 'Highlands (Scotland) -- Description and travel'
+- !lcsh 'Victoria, Queen of Great Britain, 1819-1901 -- Homes and haunts -- Scotland
+  -- Highlands'
+- GITenberg
+title: Leaves From the Journal of Our Life in the Highlands, From 1848 to 1861
+url: http://www.gutenberg.org/ebooks/66173
